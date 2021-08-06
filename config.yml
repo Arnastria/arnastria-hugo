@@ -23,7 +23,7 @@ languages:
         profileMode:
             enabled: true
             title: Ariq Naufal Satria
-            # imageUrl: ""
+            # imageUrl: profile.jpg
             # imageTitle: my image
             # imageWidth: 120
             # imageHeight: 120
@@ -81,7 +81,7 @@ params:
     # ShowCodeCopyButtons: true
     # ShowToc: true
     # # comments: false
-    # images: ["papermod-cover.png"]
+    images: ["profile.png"]
 
     # profileMode:
     #     enabled: false
